@@ -1,19 +1,17 @@
 # 🛒 Retail Store Sales Analysis Dashboard
-
-This project presents a comprehensive analysis of retail store sales using **Microsoft Excel**. It includes data cleaning, exploratory analysis, pivot table summaries, and a dynamic dashboard to visualize business performance and gain key insights.
-
+# 🚀 Project Overview
+As part of my growing journey into data analysis, I took on the challenge of transforming raw sales data into valuable business insights using nothing but Microsoft Excel. This project simulates a real-world scenario where a retail company needs help understanding performance across multiple product categories, channels, and time periods.
+My goal? Use Excel to deliver clarity, storytelling, and strategy.
 ---
 
-## 📊 Dashboard Snapshot
+## 📊 Dashboard
 
 ![Dashboard](Dashboard_Screenshort.png)
 
 ---
 
-## 📌 Project Objective
-
-To analyze sales data across various product categories, channels, and timelines to answer critical business questions:
-
+## 📌The Challenge
+The retail business was sitting on a pile of transaction records but lacked direction. Key business questions they needed answers to:
 1. What is the total revenue generated?
 2. Which product category has the highest sales?
 3. Which branch contributes the most revenue?
@@ -26,16 +24,46 @@ To analyze sales data across various product categories, channels, and timelines
 
 ## 🛠️ Tools & Techniques Used
 
-- **Microsoft Excel**
-  - Data Cleaning
-  - Pivot Tables
-  - Conditional Formatting
-  - Dashboard Creation
-  - Data Validation
-- **Data Visualization**
-  - Column & Bar Charts
-  - Line Graphs
-  - Donut Charts
+1. **Data Cleaning**
+Removed duplicates and blanks
+
+
+Corrected inconsistent entries
+
+
+Handled “Unknown” values for better integrity
+
+
+2. **Data Exploration & Modeling**
+Built pivot tables to summarize data by year, category, product, channel, and payment method
+
+
+Extracted KPIs and set up slicers for interactivity
+
+
+3. **Dashboard Creation**
+Designed an intuitive dashboard showcasing:
+
+
+Total revenue
+
+
+Top-selling product categories
+
+
+Online vs In-store comparison
+
+
+Monthly sales trends
+
+
+Top products (by revenue & quantity)
+
+
+Sales distribution across days
+
+Preferred payment methods
+
 
 ---
 
@@ -82,7 +110,7 @@ To analyze sales data across various product categories, channels, and timelines
 ## 📌 Author
 
 **AKINWANDE Nurat**   
-Data Analyst & Excel Enthusiast  
+Data Analyst 
 🇳🇬 Nigeria
 
 ---
