@@ -41,22 +41,24 @@ To analyze sales data across various product categories, channels, and timelines
 
 ## 📈 Key Insights
 
-- **Total Revenue:** $1,552,071
-- **Top-Selling Category:** Furniture (8,462 items)
-- **Top Sales Channel:** Online ($791,401)
-- **Peak Sales Days:** Friday, Saturday, and Sunday (over 32% each)
-- **Top Products by Revenue:** Unknown ($79,073), Item_25_FUR ($25,256), and more
-- **Payment Methods:** Cash (34.3%) > Digital Wallet > Credit Card
+- **The Total Revenue** is $1,552,071
+- **The Top-Selling Category** is Furniture generating a total of $8462 in sales
+- **The Top Sales Channel** is via the online channel generating a total of $791,401
+- **The Peak Selling Days are** Friday, Saturday, and Sunday with over 32% each
+- **The Top Products by Revenue are** Unknown ($79,073), Item_25_FUR ($25,256), and more
+- **The most preffered Payment Methods is** Cash generating 34.3% of sales
 
 ---
 
 ## 📌 Business Recommendations
 
-- Focus on top-performing categories (e.g., Furniture).
-- Enhance online sales strategies and user experience.
-- Plan campaigns around weekends and peak months.
-- Clean and track "Unknown" product categories more efficiently.
-- Promote digital payments with rewards or cashback.
+- The company should capitalize on High-Performing Categories.  It should focus on Furniture, the top-selling category.
+- The company should enhance its Online Sales Channel. Improving user experience and offering exclusive discounts should be its priority.
+- Noting that the Peak Sales days are around the weekends, the company should plan bonuses and discount sales around Fridays and weekends.
+- It should also leverage January peaks by promoting high selling products more.
+- The company should further investigate 'Unknown' Products by improving data labeling and tracking.
+- The company should offer small incentives for digital payments.
+- The company should invest in Data Quality by training staff and implementing validation checks.
 
 ---
 
@@ -65,7 +67,7 @@ To analyze sales data across various product categories, channels, and timelines
 - ✅ Cleaned Excel Dataset
 - ✅ Pivot Table Summaries
 - ✅ Excel Dashboard
-- ✅ Project Report (Word / PDF)
+- ✅ Project Report (PDF)
 - ✅ README Documentation
 
 ---
