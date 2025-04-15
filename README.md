@@ -1,7 +1,7 @@
-# 🛒 Retail Store Sales Analysis Dashboard
-# 🚀 Project Overview
-As part of my growing journey into data analysis, I took on the challenge of transforming raw sales data into valuable business insights using nothing but Microsoft Excel. This project simulates a real-world scenario where a retail company needs help understanding performance across multiple product categories, channels, and time periods.
-My goal? Use Excel to deliver clarity, storytelling, and strategy.
+### Retail Store Sales Analysis Dashboard
+## Project Overview
+
+This data analysis aims to provide insights into the revenue trends, product performance, customer behavior and sales channels of a company over the past 3 years. By analyzing various aspects of the sales data, we seek to identify trends, make data driven recommendations and gain deeper understanding of the company's performance.
 ---
 
 ## 📊 Dashboard
